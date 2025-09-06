@@ -1,0 +1,19 @@
+# Python cache bestanden
+__pycache__/
+*.py[cod]
+
+# Virtuele omgeving
+venv/
+env/
+.venv/
+
+# OS-specifieke bestanden
+.DS_Store
+Thumbs.db
+
+# Logbestanden
+*.log
+
+# IDE bestanden
+.vscode/
+.idea/

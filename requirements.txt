@@ -1,0 +1,2 @@
+# Adventure.py does not need external dependencies
+# Python 3 is needed
